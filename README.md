@@ -95,11 +95,7 @@
 
 # 📊 Estadísticas de GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=jul10Cesar0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=jul10Cesar0&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jul10Cesar0&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=jul1oCesar0&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=jul1oCesar0&theme=merko&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jul1oCesar0&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
