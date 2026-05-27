@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-🎓 Ingeniero en Desarrollo y Gestión de Software recién egresado, apasionado por el desarrollo de aplicaciones web y móviles, así como por la creación de soluciones tecnológicas innovadoras.
+🎓 Ingeniero en Desarrollo y Gestión de Software, apasionado por el desarrollo de aplicaciones web y móviles, así como por la creación de soluciones tecnológicas innovadoras.
 
 💡 Me interesa la resolución de problemas complejos, la optimización de procesos y el aprendizaje constante de nuevas tecnologías que permitan desarrollar proyectos modernos, escalables y funcionales.
 
@@ -27,7 +27,7 @@
 
 # 🌐 Redes y Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jul10Cesar0)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jul1oCesar0)
 
 ---
 
@@ -99,17 +99,7 @@
 
 ---
 
-# 🏆 Logros de GitHub
 
-![](https://github-profile-trophy.vercel.app/?username=jul10Cesar0&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# 📈 Actividad
-
-![](https://github-contributor-stats.vercel.app/api?username=jul10Cesar0&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 
 # ✨ Frase
 
